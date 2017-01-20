@@ -8,10 +8,10 @@ body h1 {
   left: 50%;
   margin: auto -50px;
   position: absolute;
-  top: 50%;
+  top: 60%;
 }
 .swing div {
-  border-radius: 30%;
+  border-radius: 50%;
   float: left;
   height: 1em;
   width: 1em;
