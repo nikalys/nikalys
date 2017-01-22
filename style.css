@@ -270,6 +270,7 @@ ul.social-icons {
   position:relative;
   width:400px;
   margin:0 auto;
+  font-family: 'Varela', sans-serif;
 }
 @keyframes noise-anim{
   $steps:20;
