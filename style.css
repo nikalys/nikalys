@@ -11,8 +11,10 @@
 body {
   font-family: "Ubuntu", sans-serif;
   font-size: 100%;
-  background: #444444; }
-
+  background: url('http://bsnscb.com/data/out/86/27305842-gif-wallpapers.gif');
+  background-repeat:no-repeat;
+  background-size:100% 130%;
+}
 a {
   text-decoration: none;
   color: #666; }
@@ -129,6 +131,7 @@ hr {
   border: 0;
   border-bottom: #fff 1px solid;
   border-top: #f0f0f0 1px solid; }
+
 
 pre {
   margin: 0 auto 20px;
@@ -250,7 +253,7 @@ ul.social-icons {
     background-color: #322f30;
 }
 .fa-instagram:hover {
-    background-color: #375888;
+    background-color: #e1306c;
 }
 .fa-github {
     padding:10px 14px;
